@@ -1,0 +1,24 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Секреты
+.env
+
+# Данные
+data/
+*.csv
+*.xlsx
+
+# Системные
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
